@@ -2,7 +2,7 @@
 The solution use transformer model for intent classification of ATIS dataset provided
 
 ## Model download
-- Please download the intent from google drive as this is a big file
+- Please download the intent_model from google drive as this is a big file
   https://drive.google.com/file/d/1yAuEs3d1lZ6xSXWVuR67ZyXhscDqVVHO/view?usp=sharing
 - Please unzip and put it inside model package. 
 - Then you can run the scripts which will pick up the files from there
