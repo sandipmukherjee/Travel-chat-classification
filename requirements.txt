@@ -1,0 +1,7 @@
+flask
+numpy==1.23.3
+transformers==4.21.3
+scikit-learn==1.1.2
+torch==1.12.1
+attr
+cattr

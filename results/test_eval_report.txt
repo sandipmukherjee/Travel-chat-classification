@@ -1,0 +1,47 @@
+full report
+                precision    recall  f1-score   support
+
+  abbreviation       0.96      1.00      0.98        26
+      aircraft       1.00      0.88      0.93         8
+       airfare       0.96      0.90      0.93        61
+       airline       1.00      0.93      0.97        30
+       airport       0.93      1.00      0.96        13
+      capacity       0.84      1.00      0.91        21
+          city       1.00      0.80      0.89         5
+      distance       1.00      1.00      1.00        10
+        flight       1.00      0.97      0.99       627
+     flight_no       1.00      1.00      1.00         9
+   flight_time       1.00      1.00      1.00         1
+   ground_fare       1.00      0.71      0.83         7
+ground_service       0.97      1.00      0.99        36
+          meal       0.83      0.83      0.83         6
+      quantity       0.38      1.00      0.55         3
+
+     micro avg       0.98      0.97      0.97       863
+     macro avg       0.93      0.94      0.92       863
+  weighted avg       0.99      0.97      0.98       863
+   samples avg       0.98      0.98      0.98       863
+
+classification report
+                precision    recall  f1-score   support
+
+  abbreviation       0.96      1.00      0.98        26
+      aircraft       1.00      0.88      0.93         8
+       airfare       0.96      0.90      0.93        61
+       airline       1.00      0.93      0.97        30
+       airport       0.93      1.00      0.96        13
+      capacity       0.84      1.00      0.91        21
+          city       1.00      0.80      0.89         5
+      distance       1.00      1.00      1.00        10
+        flight       1.00      0.97      0.99       627
+     flight_no       1.00      1.00      1.00         9
+   flight_time       1.00      1.00      1.00         1
+   ground_fare       1.00      0.71      0.83         7
+ground_service       0.97      1.00      0.99        36
+          meal       0.83      0.83      0.83         6
+      quantity       0.38      1.00      0.55         3
+
+     micro avg       0.98      0.97      0.97       863
+     macro avg       0.93      0.94      0.92       863
+  weighted avg       0.99      0.97      0.98       863
+   samples avg       0.98      0.98      0.98       863
