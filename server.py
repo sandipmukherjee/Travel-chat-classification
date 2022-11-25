@@ -28,7 +28,6 @@ def handle_500(e):
 
 @app.errorhandler(APIException)
 def handle_exception(err):
-    """Return JSON instead of HTML for MyCustomError errors."""
     response = {
       "message": err.message,
       "label": err.label
